@@ -34,7 +34,7 @@ public class Principal {
                 String NombreCampeon=JOptionPane.showInputDialog("Ingresar Nombre:");
                 String Nacionalidad=JOptionPane.showInputDialog("Ingresar Nacionalidad:");
                 String Tiempo=JOptionPane.showInputDialog("Ingresar Tiempo:");
-                break;
+                break;    
             case 3:
                 
                 break;
